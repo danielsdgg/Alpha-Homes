@@ -1,0 +1,13 @@
+.addproperty, .adduser{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.page{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-left: 250px; */
+}
+
+
